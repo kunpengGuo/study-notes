@@ -147,7 +147,7 @@ AVG() 会忽略 NULL 行
 ### 文本处理
 
 | 函 数 | 说 明 | 使用 |
-|  ---  | ---  |
+|  ---  | ---  | --- |
 | LEFT(string, length) | 左边字符 | LEFT(string, 3),从左侧提取3个字符 |
 | RIGHT()| 右边字符 | RIGHT(string, 3),从右侧提取3个字符 |
 | LOWER() | 转换为小写字符 | LOWER('SHANGHAI') |
